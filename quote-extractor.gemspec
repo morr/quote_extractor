@@ -1,15 +1,15 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{quote-extractor}
-  s.version = "0.0.1"
+  s.name = %q{quote_extractor}
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.3") if s.respond_to? :required_rubygems_version=
   s.authors = ["Andrey Sidorov"]
   s.date = %q{2011-10-01}
   s.email = %q{takandar@gmail.com}
   s.files = ["Rakefile", "Guardfile", "lib/quote_extractor.rb"]
-  s.homepage = %q{https://github.com/morr/QuoteExtractor}
+  s.homepage = %q{https://github.com/morr/quote_extractor}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
   s.summary = %q{Extractor for quotes in text}
